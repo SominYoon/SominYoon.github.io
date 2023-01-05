@@ -1,4 +1,4 @@
-# SominYoon.github.io
+# PORTFOLIO
 
 prototype for PORTFOLIO site
 *by somin Yoon*
