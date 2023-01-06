@@ -1,1 +1,0 @@
-# SominYoon.github.io
